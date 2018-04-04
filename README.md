@@ -4,3 +4,5 @@ Some question about UWS
 * Peut-on faire une collocation avec une personne de l'IUT partant aussi en Ecosse ?
 * Pour la bourse, comment doit-on s'y prendre ?
 * Pour l'hébergement, quelles sont les conditions pour avoir droit à une chambre étudiante (Erasmus)
+
+J'ai reajouté d'autre trucs
